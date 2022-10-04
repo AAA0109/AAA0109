@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 5+ years.<br>
 I have wide experience in C#, javascript, C++, PHP and python.<br>
-My mail skills are:<br>
+My main skills are:<br>
 - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
 - Serverless: AWS, Google Cloud<br>
 - Frontend: React, Vue.js, AngularJS<br>
