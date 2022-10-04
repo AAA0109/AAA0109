@@ -41,12 +41,10 @@ My main skills are:<br>
 
 <h3>My latest projects</h3>
 <ul>
-  <li>
-    <a href="https://dobbys.io" target="_blank">https://dobbys.io</a>
-    <a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a>
-    <a href="https://www.axiance.com" target="_blank">https://www.axiance.com</a>
-    <a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a>
-    <a href="https://www.hoteltonight.com" target="_blank">https://www.hoteltonight.com</a>
-    <a href="https://www.tesla.com" target="_blank">https://www.tesla.com</a>
-  </li>
+  <li><a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>
+  <li><a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>
+  <li><a href="https://www.axiance.com" target="_blank">https://www.axiance.com</a></li>
+  <li><a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li>
+  <li><a href="https://www.hoteltonight.com" target="_blank">https://www.hoteltonight.com</a></li>
+  <li><a href="https://www.tesla.com" target="_blank">https://www.tesla.com</a></li>
 </ul>
