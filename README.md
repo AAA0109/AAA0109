@@ -48,3 +48,14 @@ My main skills are:<br>
   <li><a href="https://www.hoteltonight.com" target="_blank">https://www.hoteltonight.com</a></li>
   <li><a href="https://www.tesla.com" target="_blank">https://www.tesla.com</a></li>
 </ul>
+
+<h3>👀 My github Stats</h3>
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAA0109" alt="GitHub Stats" /> <br/><br/>  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=AAA0109&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAA0109&layout=compact)
