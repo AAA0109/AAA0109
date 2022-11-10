@@ -57,5 +57,4 @@ My main skills are:<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAA0109" alt="GitHub Stats" /> <br/><br/>  
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=AAA0109&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAA0109&layout=compact)
