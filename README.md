@@ -53,13 +53,13 @@ My main skills are:<br>
 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <b><em>GitHub Stats</em></b> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAA0109" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 <div>
   <p align="center">
-  <b><em>Top Languages:</em></b> <br/>
+  <b><em>Top Languages</em></b> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAA0109&layout=compact" alt="Top Langs" /> <br/><br/>
   </p>
 </div>
