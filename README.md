@@ -54,7 +54,15 @@ My main skills are:<br>
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAA0109" alt="GitHub Stats" /> <br/><br/>  
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAA0109" alt="GitHub Stats" /> <br/><br/>   -->
+  <p align="left">
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AAA0109&theme=omni&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAA0109&layout=compact&theme=omni&hide_border=true" />
+</p>
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AAA0109&show_icons=true&theme=omni&hide_border=true" />
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AAA0109&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4" />
+</p>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAA0109&layout=compact)
