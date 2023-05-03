@@ -2,13 +2,19 @@
 
 
 <p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 5+ years.<br>
-I have wide experience in C#, javascript, C++, PHP and python.<br>
-My main skills are:<br>
-- Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
-- Serverless: AWS, Google Cloud<br>
-- Frontend: React, Vue.js, AngularJS<br>
-- Database: MySQL, MsSQL, MongoDB<br>
-- DevOps: Git, Azure<br>
+As a Full Stack Developer with expertise in AWS, React, and Vue.js, I specialize in developing scalable and responsive web applications using cloud-based solutions.
+With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience.
+
+Skills I can offer:
+- Proficiency in AWS technologies such as S3, Lambda, AppSync, Amplify, DynamoDB, etc
+- Expertise in frontend development using React and Vue.js
+- Strong understanding of HTML, CSS, and JavaScript
+- Experience with version control systems such as Git and GitHub
+- Knowledge of software development best practices such as Agile methodology and TDD
+- Experience in mentoring team members and providing technical support to clients
+- Ability to work collaboratively with cross-functional teams to deliver high-quality solutions
+- Familiarity with backend technologies such as Node.js and Express.js, Nest.js
+<br>
 </p>
 <h3>Things I code with</h3>
 <p>
@@ -94,14 +100,13 @@ My main skills are:<br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
-<h3>My latest projects</h3>
+<h3>I participated in developing:</h3>
 <ul>
   <li><a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>
   <li><a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>
-  <li><a href="https://www.axiance.com" target="_blank">https://www.axiance.com</a></li>
   <li><a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li>
-  <li><a href="https://www.hoteltonight.com" target="_blank">https://www.hoteltonight.com</a></li>
-  <li><a href="https://www.tesla.com" target="_blank">https://www.tesla.com</a></li>
+  <li><a href="https://dashboard.fluentc.io" target="_blank">https://dashboard.fluentc.io</a></li>
+  <li><a href="https://www.moivon.com" target="_blank">https://www.moivon.com</a></li>
 </ul>
 
 <h3>👀 My github Stats</h3>
