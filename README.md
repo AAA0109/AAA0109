@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 5+ years.<br>
 As a Full Stack Developer with expertise in AWS, React, and Vue.js, I specialize in developing scalable and responsive web applications using cloud-based solutions.
 With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience.
 
 Skills I can offer:
+
 - Proficiency in AWS technologies such as S3, Lambda, AppSync, Amplify, DynamoDB, etc
 - Expertise in frontend development using React and Vue.js
 - Strong understanding of HTML, CSS, and JavaScript
@@ -74,7 +74,7 @@ Skills I can offer:
 
 <!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -102,11 +102,36 @@ Skills I can offer:
 
 <h3>I participated in developing:</h3>
 <ul>
-  <li><a href="https://dobbys.io" target="_blank">https://dobbys.io</a></li>
-  <li><a href="https://new.letsusedata.com" target="_blank">https://new.letsusedata.com</a></li>
-  <li><a href="https://www.colochousing.com" target="_blank">https://www.colochousing.com</a></li>
-  <li><a href="https://dashboard.fluentc.io" target="_blank">https://dashboard.fluentc.io</a></li>
-  <li><a href="https://www.moivon.com" target="_blank">https://www.moivon.com</a></li>
+  <li>
+    <a href="https://fluentc.io" target="_blank">FluentC</a>
+    <br/>
+    <span>FluentC is a powerful platform that allows you to easily configure apps, websites, and web applications to enable your content to be translated into up to 75 common languages. With our platform, you can make your content accessible to a global audience with ease</span>
+  </li>
+  <li>
+    <a href="https://ollacart.com" target="_blank">OllaCart</a>
+    <br/>
+    <span>Online shopping platform to collect products in one place for a later purchase while monitoring price, discounts, and comparable products.</span>
+  </li>
+  <li>
+    <a href="https://dobbys.io" target="_blank">Dobbys</a>
+    <br/>
+    <span>Dobbys is a family-friendly NFT project programmatically, randomly generated dinosaurs.</span>
+  </li>
+  <li>
+    <a href="https://moonhub.ai" target="_blank">Moonhub</a>
+    <br/>
+    <span>Moonhub combines cutting-edge AI and automation solutions with recruiting and HR expertise to help you hire, retain, and manage world-class people.</span>
+  </li>
+  <li>
+    <a href="https://www.colochousing.com" target="_blank">Coloc House</a>
+    <br/>
+    <span>Rooms for rent in shared houses and apartments in Belgium, tailored for young professionals.</span>
+  </li>
+  <li>
+    <a href="https://www.moivon.com" target="_blank">Moivon</a>
+    <br/>
+    <span>Moivon is your ultimate destination for uncovering a carefully curated list of art, creative, and design events, providing you with the perfect platform to explore and fall in love with each unique experience.</span>
+  </li>
 </ul>
 
 <h3>👀 My github Stats</h3>
