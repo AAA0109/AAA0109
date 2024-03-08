@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 5+ years.<br>
+<p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 10+ years.<br>
 As a Full Stack Developer with expertise in AWS, React, and Vue.js, I specialize in developing scalable and responsive web applications using cloud-based solutions.
 With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience.<br>
 
