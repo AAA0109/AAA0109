@@ -13,7 +13,7 @@ Skills I can offer:
 - Knowledge of software development best practices such as Agile methodology and TDD
 - Experience in mentoring team members and providing technical support to clients
 - Ability to work collaboratively with cross-functional teams to deliver high-quality solutions
-- Familiarity with backend technologies such as Node.js and Express.js, Nest.js
+- Familiarity with backend technologies such as ASP.NET, ASP.NET Core, Django, Node.js and Express.js, Nest.js
 <br>
 </p>
 <h3>Things I code with</h3>
