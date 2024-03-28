@@ -123,11 +123,6 @@ Skills I can offer:
     <span>Moonhub combines cutting-edge AI and automation solutions with recruiting and HR expertise to help you hire, retain, and manage world-class people.</span>
   </li>
   <li>
-    <a href="https://www.colochousing.com" target="_blank">Coloc House</a>
-    <br/>
-    <span>Rooms for rent in shared houses and apartments in Belgium, tailored for young professionals.</span>
-  </li>
-  <li>
     <a href="https://www.moivon.com" target="_blank">Moivon</a>
     <br/>
     <span>Moivon is your ultimate destination for uncovering a carefully curated list of art, creative, and design events, providing you with the perfect platform to explore and fall in love with each unique experience.</span>
