@@ -100,35 +100,6 @@ Skills I can offer:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
-<h3>I participated in developing:</h3>
-<ul>
-  <li>
-    <a href="https://fluentc.io" target="_blank">FluentC</a>
-    <br/>
-    <span>FluentC is a powerful platform that allows you to easily configure apps, websites, and web applications to enable your content to be translated into up to 75 common languages. With our platform, you can make your content accessible to a global audience with ease</span>
-  </li>
-  <li>
-    <a href="https://ollacart.com" target="_blank">OllaCart</a>
-    <br/>
-    <span>Online shopping platform to collect products in one place for a later purchase while monitoring price, discounts, and comparable products.</span>
-  </li>
-  <li>
-    <a href="https://dobbys.io" target="_blank">Dobbys</a>
-    <br/>
-    <span>Dobbys is a family-friendly NFT project programmatically, randomly generated dinosaurs.</span>
-  </li>
-  <li>
-    <a href="https://moonhub.ai" target="_blank">Moonhub</a>
-    <br/>
-    <span>Moonhub combines cutting-edge AI and automation solutions with recruiting and HR expertise to help you hire, retain, and manage world-class people.</span>
-  </li>
-  <li>
-    <a href="https://www.moivon.com" target="_blank">Moivon</a>
-    <br/>
-    <span>Moivon is your ultimate destination for uncovering a carefully curated list of art, creative, and design events, providing you with the perfect platform to explore and fall in love with each unique experience.</span>
-  </li>
-</ul>
-
 <h3>👀 My github Stats</h3>
 
 <div>
