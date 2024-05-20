@@ -1,19 +1,25 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 10+ years.<br>
-As a Full Stack Developer with expertise in AWS, React, and Vue.js, I specialize in developing scalable and responsive web applications using cloud-based solutions.
-With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience.<br>
+I am a Senior Full Stack Developer and have been in the software development field for over 8 years. I specialize in building scalable, responsive web applications with a focus on user experience and efficiency. 
 
-Skills I can offer:
+## 🔭 My Tech Stack
+I have extensive experience working with:
 
-- Proficiency in AWS technologies such as S3, Lambda, AppSync, Amplify, DynamoDB, etc
-- Expertise in frontend development using React and Vue.js
-- Strong understanding of HTML, CSS, and JavaScript
-- Experience with version control systems such as Git and GitHub
-- Knowledge of software development best practices such as Agile methodology and TDD
-- Experience in mentoring team members and providing technical support to clients
-- Ability to work collaboratively with cross-functional teams to deliver high-quality solutions
-- Familiarity with backend technologies such as ASP.NET, ASP.NET Core, Django, Node.js and Express.js, Nest.js
+- **Frontend**: JavaScript, TypeScript, React.js, Next.js, Angular.js, Vue.js
+- **Backend**: Node.js, Express, Nest.js, ASP.NET, C#, Python, Django
+- **Database**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase, DynamoDB, CouchDB)
+- **AI/ML**: TensorFlow, Pytorch, NLTK, SpaCy, OpenAI, Pinecone
+- **DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD pipelines
+- **Tools**: Jira, Trello, Git
+
+## 🌱 I’m currently learning 
+
+I'm currently diving deeper into AI and Machine Learning, particularly TensorFlow and PyTorch for deep learning, and Natural Language Processing with NLTK and SpaCy. I'm also exploring OpenAI and Pinecone.
+
+## 💬 Get in touch
+
+I am open to opportunities and collaboration.
+
 <br>
 </p>
 <h3>Things I code with</h3>
