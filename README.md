@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-# 💼 Austen Daniel Anop - AI/ML Specialist
+# 💼 AI/ML Specialist
 
 I am a versatile software engineer with over 8 years of experience, specializing in AI and machine learning, with a strong background in financial, healthcare, and e-commerce domains. My expertise lies in building scalable AI-driven applications, deploying machine learning models, and leveraging cloud services to optimize processes and drive impactful results.
 
